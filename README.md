@@ -25,3 +25,22 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+# Week 4 Tutorial
+
+## Commands Used
+
+### Angular (in Node)
+- `ng new week4tut`
+- `ng generate component login`
+- `ng generate component account`
+
+### NPM (Installing Modules)
+- `npm install bootstrap --save`
+
+### Git
+- `git init`
+- `git add -A`
+- `git commit -m "Week 4 Tutorial setup"`
+- `git remote add origin https://github.com/yourusername/Week4.git`
+- `git push -u origin main`
