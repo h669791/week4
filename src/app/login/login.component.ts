@@ -14,9 +14,9 @@ export class LoginComponent {
   // Hard-coded user credentials
 
   users = [
-    { username: 'user1', password: 'pass1' },
-    { username: 'user2', password: 'pass2' },
-    { username: 'user3', password: 'pass3' }
+    { username: 'user1@com.au', password: 'pass1' },
+    { username: 'user2@com.au', password: 'pass2' },
+    { username: 'user3@com.au', password: 'pass3' }
   ];
 
   // Variables to bind with the form inputs
